@@ -11,6 +11,13 @@ This is an ultra-clean, portable standalone build of ComfyUI pre-configured with
 * **SillyTavern Ready:** Optimized workflows for instant AI character voice generation.
 
 ## 🚀 Quick Start:
+---
+
+## ☁️ Облачная альтернатива (Для слабых ПК)
+Если у вас нет локальной видеокарты серии RTX 50xx, вы можете запустить наш официальный облачный фикс-сервер для SillyTavern в один клик без ошибок совместимости пакетов Python и без конфликтов с `torchcodec`:
+
+👉 **[ЗАПУСТИТЬ NODE NIÑO LABS XTTS FIX В GOOGLE COLAB](https://google.com)**
+
 1. Download **`Node_Nino_Labs_F5TTS_RTX50xx.zip`** from this repository.
 2. Extract the archive to `C:\ComfyUI_Clean`.
 3. Drop your custom SD/Checkpoint models into `ComfyUI/models/checkpoints/`.
