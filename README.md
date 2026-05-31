@@ -25,4 +25,4 @@ This is an ultra-clean, portable standalone build of ComfyUI pre-configured with
 5. Open `http://127.0.0.1:8188` in your browser and start cloning!
 
 ## 📬 Contact Node Niño Labs:
-For custom AI integrations, local LLM/TTS automation, and commercial workflow development, contact us at: **[Впишите сюда Телеграм или почту сына для заказов]**
+For custom AI integrations, local LLM/TTS automation, and commercial workflow development, contact us at: @Dhdhbdbb8
