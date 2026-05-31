@@ -26,3 +26,9 @@ This is an ultra-clean, portable standalone build of ComfyUI pre-configured with
 
 ## 📬 Contact Node Niño Labs:
 For custom AI integrations, local LLM/TTS automation, and commercial workflow development, contact us at: @Dhdhbdbb8
+---
+
+## ☁️ Cloud Alternative (For Low-End PCs)
+If you don't have a next-gen RTX GPU, you can run our official, fixed cloud server in one click with zero python package conflicts:
+
+👉 **[RUN NODE NIÑO LABS XTTS FIX IN GOOGLE COLAB](https://google.com)**
